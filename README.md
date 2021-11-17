@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Novober
 - 👀 I’m interested in Learning the basics, I am a fully new beginner, this obviously will change along the way while me and the community shape eachother.
-- 🌱 I’m currently learning Python, HTML, and CSS.
+- 🌱 I’m currently learning HTML, CSS, and soon JavaScript.
 - 💞️ I’m looking to collaborate on something unknown as of now.
 - 📫 How to reach me is to send through email, mbarobertosan@gmail.com
 
